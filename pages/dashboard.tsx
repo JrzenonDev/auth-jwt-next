@@ -69,7 +69,7 @@ export default function Dashboard() {
                               <span className="sr-only">Open user menu</span>
                               <img
                                 className="h-8 w-8 rounded-full"
-                                src="https://github.com/diego3g.png"
+                                src="https://github.com/JrzenonDev.png"
                                 alt=""
                               />
                             </Menu.Button>
@@ -158,7 +158,7 @@ export default function Dashboard() {
                   <div className="flex-shrink-0">
                     <img
                       className="h-10 w-10 rounded-full"
-                      src="https://github.com/diego3g.png"
+                      src="https://github.com/JrzenonDev.png"
                       alt=""
                     />
                   </div>
